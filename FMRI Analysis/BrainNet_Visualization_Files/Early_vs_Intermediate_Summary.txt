@@ -1,0 +1,26 @@
+GOLD STANDARD CONNECTIONS SUMMARY: S1_vs_S3
+==================================================
+
+Total connections: 11
+Successfully mapped: 11
+Failed mappings: 0
+Nodes involved: 14
+
+CONNECTION DETAILS:
+--------------------
+rh-parsopercularis <-> rh-isthmuscingulate (d=0.866, Increased)
+rh-rostralmiddlefrontal <-> rh-bankssts (d=0.858, Increased)
+rh-inferiorparietal <-> rh-bankssts (d=0.869, Increased)
+rh-entorhinal <-> lh-precentral (d=0.830, Increased)
+rh-isthmuscingulate <-> lh-isthmuscingulate (d=-1.011, Decreased)
+rh-precuneus <-> lh-isthmuscingulate (d=-0.876, Decreased)
+rh-entorhinal <-> lh-inferiorparietal (d=-0.839, Decreased)
+rh-isthmuscingulate <-> lh-precuneus (d=-0.883, Decreased)
+lh-isthmuscingulate <-> lh-precuneus (d=-1.029, Decreased)
+rh-middletemporal <-> lh-inferiortemporal (d=-0.862, Decreased)
+lh-inferiortemporal <-> lh-middletemporal (d=-0.997, Decreased)
+
+Files created:
+- Early_vs_Intermediate_GoldStandard.edge
+- Early_vs_Intermediate_GoldStandard.node
+- Early_vs_Intermediate_Summary.txt

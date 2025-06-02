@@ -1,0 +1,35 @@
+GOLD STANDARD CONNECTIONS SUMMARY: S1_vs_S2
+==================================================
+
+Total connections: 20
+Successfully mapped: 20
+Failed mappings: 0
+Nodes involved: 17
+
+CONNECTION DETAILS:
+--------------------
+rh-precentral <-> rh-isthmuscingulate (d=1.425, Increased)
+rh-isthmuscingulate <-> rh-supramarginal (d=1.307, Increased)
+rh-supramarginal <-> rh-precuneus (d=0.943, Increased)
+rh-isthmuscingulate <-> lh-precentral (d=1.090, Increased)
+rh-parsopercularis <-> lh-isthmuscingulate (d=0.964, Increased)
+rh-precentral <-> lh-isthmuscingulate (d=1.272, Increased)
+rh-isthmuscingulate <-> lh-isthmuscingulate (d=-1.227, Decreased)
+rh-supramarginal <-> lh-isthmuscingulate (d=1.183, Increased)
+rh-precuneus <-> lh-isthmuscingulate (d=-0.815, Decreased)
+lh-precentral <-> lh-isthmuscingulate (d=0.918, Increased)
+rh-isthmuscingulate <-> lh-supramarginal (d=0.939, Increased)
+lh-frontalpole <-> lh-inferiorparietal (d=-0.826, Decreased)
+rh-supramarginal <-> lh-precuneus (d=1.017, Increased)
+lh-isthmuscingulate <-> lh-precuneus (d=-0.984, Decreased)
+rh-caudalanteriorcingulate <-> lh-parahippocampal (d=0.807, Increased)
+lh-isthmuscingulate <-> lh-parahippocampal (d=-0.809, Decreased)
+lh-precuneus <-> lh-parahippocampal (d=-0.804, Decreased)
+rh-caudalanteriorcingulate <-> lh-middletemporal (d=0.860, Increased)
+lh-entorhinal <-> lh-middletemporal (d=-0.855, Decreased)
+rh-rostralmiddlefrontal <-> lh-bankssts (d=0.842, Increased)
+
+Files created:
+- Early_vs_Advanced_GoldStandard.edge
+- Early_vs_Advanced_GoldStandard.node
+- Early_vs_Advanced_Summary.txt

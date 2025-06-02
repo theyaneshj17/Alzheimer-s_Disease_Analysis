@@ -1,0 +1,18 @@
+"Network","n","Comparison","Category","Percentage"
+"DMN",22,"S1_vs_S2","Gold Standard",55
+"VA",7,"S1_vs_S2","Gold Standard",17.5
+"SM",4,"S1_vs_S2","Gold Standard",10
+"SUB",3,"S1_vs_S2","Gold Standard",7.5
+"FP",2,"S1_vs_S2","Gold Standard",5
+"LS",2,"S1_vs_S2","Gold Standard",5
+"DMN",15,"S1_vs_S3","Gold Standard",68.2
+"LS",4,"S1_vs_S3","Gold Standard",18.2
+"FP",2,"S1_vs_S3","Gold Standard",9.1
+"SM",1,"S1_vs_S3","Gold Standard",4.5
+"SM",20,"S3_vs_S2","Gold Standard",45.5
+"DMN",8,"S3_vs_S2","Gold Standard",18.2
+"VIS",6,"S3_vs_S2","Gold Standard",13.6
+"VA",5,"S3_vs_S2","Gold Standard",11.4
+"FP",2,"S3_vs_S2","Gold Standard",4.5
+"LS",2,"S3_vs_S2","Gold Standard",4.5
+"SUB",1,"S3_vs_S2","Gold Standard",2.3

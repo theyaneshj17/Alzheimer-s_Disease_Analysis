@@ -1,0 +1,4 @@
+"Comparison","Total_Connections","Large_Effects","Medium_Effects","Small_Effects","Significant","Very_Significant","Gold_Standard","Pct_Large","Pct_Significant","Pct_Gold","Mean_Effect_Size","Max_Effect_Size"
+"S1_vs_S2",2278,392,438,795,54,6,20,17.2,2.4,0.9,0.459,2.302
+"S1_vs_S3",2278,336,452,803,28,0,11,14.7,1.2,0.5,0.43,2.19
+"S3_vs_S2",2278,42,253,963,94,13,22,1.8,4.1,1,0.267,1.255

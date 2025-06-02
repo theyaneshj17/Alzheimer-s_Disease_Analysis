@@ -1,0 +1,37 @@
+GOLD STANDARD CONNECTIONS SUMMARY: S3_vs_S2
+==================================================
+
+Total connections: 22
+Successfully mapped: 22
+Failed mappings: 0
+Nodes involved: 21
+
+CONNECTION DETAILS:
+--------------------
+rh-precentral <-> rh-isthmuscingulate (d=1.038, Increased)
+rh-paracentral <-> rh-isthmuscingulate (d=0.867, Increased)
+rh-isthmuscingulate <-> rh-postcentral (d=1.053, Increased)
+rh-rostralmiddlefrontal <-> rh-supramarginal (d=-0.987, Decreased)
+rh-precuneus <-> rh-lingual (d=-0.877, Decreased)
+rh-fusiform <-> rh-superiortemporal (d=0.893, Increased)
+rh-fusiform <-> rh-insula (d=0.889, Increased)
+rh-supramarginal <-> lh-rostralmiddlefrontal (d=-0.836, Decreased)
+rh-postcentral <-> lh-superiorfrontal (d=-0.940, Decreased)
+rh-paracentral <-> lh-precentral (d=-0.909, Decreased)
+rh-isthmuscingulate <-> lh-precentral (d=0.925, Increased)
+rh-postcentral <-> lh-precentral (d=-1.097, Decreased)
+rh-entorhinal <-> lh-precentral (d=-0.821, Decreased)
+rh-isthmuscingulate <-> lh-paracentral (d=0.886, Increased)
+lh-precentral <-> lh-paracentral (d=-0.847, Decreased)
+rh-isthmuscingulate <-> lh-postcentral (d=1.088, Increased)
+lh-precentral <-> lh-postcentral (d=-1.137, Decreased)
+rh-insula <-> lh-lingual (d=0.881, Increased)
+rh-superiortemporal <-> lh-fusiform (d=1.255, Increased)
+rh-insula <-> lh-fusiform (d=1.196, Increased)
+rh-superiortemporal <-> lh-parahippocampal (d=0.847, Increased)
+rh-superiortemporal <-> lh-inferiortemporal (d=1.019, Increased)
+
+Files created:
+- Intermediate_vs_Advanced_GoldStandard.edge
+- Intermediate_vs_Advanced_GoldStandard.node
+- Intermediate_vs_Advanced_Summary.txt
